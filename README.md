@@ -25,8 +25,8 @@ Technologies Used
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/book_recommendation_system.git
-    cd book_recommendation_system
+    git clone https://github.com/ABAKHAR721/Book-Recommendation-System.git
+    cd Book-Recommendation-System
     ```
 
 2. **Create and Activate a Virtual Environment linux ubuntu 20.04**
