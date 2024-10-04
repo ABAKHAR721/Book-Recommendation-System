@@ -11,7 +11,7 @@ COPY . /app
 # RUN pip install --upgrade pip
 # RUN pip install -r requirements.txt
 
-# Expose the port the app runs on
+# Expose the port the app runs on n
 EXPOSE 5000
 
 # Define environment variable
