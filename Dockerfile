@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . /app
 
 # Install any necessary dependencies
-RUN pip install --upgrade pip
+# RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Expose the port the app runs on
