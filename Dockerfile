@@ -9,7 +9,7 @@ COPY . /app
 
 # Install any necessary dependencies
 # RUN pip install --upgrade pip
-# RUN pip install -r requirements.txt
+RUN pip install -r requirements.txt
 
 # Expose the port the app runs on n
 EXPOSE 5000
