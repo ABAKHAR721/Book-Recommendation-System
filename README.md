@@ -14,10 +14,10 @@ Responsive Design: Built with Bootstrap for a responsive and modern user interfa
 Dark Mode: Includes a dark-themed UI for a contemporary look and feel.
 Technologies Used
 
-## Frontend:HTML, CSS, Bootstrap 4, Font Awesome
-## Backend: Flask (Python)
-## Machine Learning: Scikit-learn for TF-IDF vectorization and cosine similarity
-## Data Storage: Pickle for loading pre-trained models and book data
+### Frontend:HTML, CSS, Bootstrap 4, Font Awesome
+### Backend: Flask (Python)
+### Machine Learning: Scikit-learn for TF-IDF vectorization and cosine similarity
+### Data Storage: Pickle for loading pre-trained models and book data
 
 ## Setup
 
